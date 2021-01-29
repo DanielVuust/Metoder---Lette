@@ -1,0 +1,10 @@
+C:\Users\danie\source\repos\Metoder - Lette\Metoder - Lette\obj\Debug\Metoder - Lette.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Metoder - Lette\Metoder - Lette\obj\Debug\Metoder - Lette.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Metoder - Lette\Metoder - Lette\bin\Debug\Metoder - Lette.exe.config
+C:\Users\danie\source\repos\Metoder - Lette\Metoder - Lette\bin\Debug\Metoder - Lette.exe
+C:\Users\danie\source\repos\Metoder - Lette\Metoder - Lette\bin\Debug\Metoder - Lette.pdb
+C:\Users\danie\source\repos\Metoder - Lette\Metoder - Lette\bin\Debug\ClassLibrary.dll
+C:\Users\danie\source\repos\Metoder - Lette\Metoder - Lette\bin\Debug\ClassLibrary.pdb
+C:\Users\danie\source\repos\Metoder - Lette\Metoder - Lette\obj\Debug\Metoder - Lette.csproj.CopyComplete
+C:\Users\danie\source\repos\Metoder - Lette\Metoder - Lette\obj\Debug\Metoder - Lette.exe
+C:\Users\danie\source\repos\Metoder - Lette\Metoder - Lette\obj\Debug\Metoder - Lette.pdb

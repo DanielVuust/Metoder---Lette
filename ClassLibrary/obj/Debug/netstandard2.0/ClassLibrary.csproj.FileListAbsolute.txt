@@ -1,0 +1,9 @@
+C:\Users\danie\source\repos\Metoder - Lette\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Metoder - Lette\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Metoder - Lette\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\danie\source\repos\Metoder - Lette\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Metoder - Lette\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\danie\source\repos\Metoder - Lette\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\danie\source\repos\Metoder - Lette\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\danie\source\repos\Metoder - Lette\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\danie\source\repos\Metoder - Lette\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
