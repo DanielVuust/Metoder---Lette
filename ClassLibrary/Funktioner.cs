@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace ClassLibrary
 {
@@ -37,19 +38,60 @@ namespace ClassLibrary
             decimal c = a / b;
             return Math.Floor(c);
         }
-        private int listMax(int[] list)
+        private int listMax(List<int> list)
         {
-            int maxNummer;
+            bool førsteIndex = true;
+            int maxNummer = 0;
             foreach (int nummer in list)
             {
-                if (nummer == list[0] && nummer > nummer)
+                if (førsteIndex)
                 {
-
+                    maxNummer = nummer;
+                    førsteIndex = false;
+                }
+                else if (nummer > maxNummer)
+                {
+                    maxNummer = nummer;
                 }
 
             }
-
-            return 
+            return maxNummer; 
         } 
+        private bool indeholder(List<int> x)
+        {
+            if (x.Contains('x'))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        private int gennemsnit(List<int> x)
+        {
+            int total = 0;
+            foreach (int num in x)
+            {
+                total += num;
+            }
+            int gennemsnit = total / x.Count;
+
+            return gennemsnit;
+        }
+        private bool sort(List<int> oldList)
+        {
+            bool erSoteret = true;
+            List<int> newList = new List<int>(oldList);
+            newList.Sort();
+            for(int i =0; i < oldList.Count; i++)
+            {
+                if (newList[i] != oldList[i])
+                {
+                    erSoteret = false;
+                }
+            }
+            return erSoteret;
+        }
     }
 }
