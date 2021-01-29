@@ -11,28 +11,28 @@ namespace Metoder___Lette
     {
         static void Main(string[] args)
         {
-            ////KonsolInputOgOutput konsolInputOgOutput = new KonsolInputOgOutput();
-            ////konsolInputOgOutput.toHeltal();
-            ////konsolInputOgOutput.pythagoras();
-            ////konsolInputOgOutput.alderOgNavn();
+            KonsolInputOgOutput konsolinputogoutput = new KonsolInputOgOutput();
+            konsolinputogoutput.toHeltal();
+            konsolinputogoutput.pythagoras();
+            konsolinputogoutput.alderOgNavn();
 
-            //Løkker løkker = new Løkker();
-            //løkker.løkke1();
-            //løkker.løkke2();
-            //løkker.løkke3();
-            
+            Løkker løkker = new Løkker();
+            løkker.løkke1();
+            løkker.løkke2();
+            løkker.løkke3();
 
-            //DataStrukturer dataStrukturer = new DataStrukturer();
 
-            ////dataStrukturer.array();
-            ////dataStrukturer.liste();
-            ////dataStrukturer.lotto();
-            //dataStrukturer.gætTallet();
+            DataStrukturer datastrukturer = new DataStrukturer();
+
+            datastrukturer.array();
+            datastrukturer.liste();
+            datastrukturer.lotto();
+            datastrukturer.gætTallet();
 
             Funktioner funktioner = new Funktioner();
 
             funktioner.mainFunktion();
-            
+
             Console.ReadKey();
         }
     }
